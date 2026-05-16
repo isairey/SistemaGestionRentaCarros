@@ -156,7 +156,7 @@ El sistema fue desarrollado utilizando arquitectura en capas para mantener una e
 # 📂 Estructura del proyecto
 
 ```bash
-Vehicle-Rental-Management-System/
+SistemaGestionRentaCarros/
 │
 ├── src/                 # Código fuente Java
 ├── ui/                  # Interfaces JavaFX
@@ -184,7 +184,7 @@ Vehicle-Rental-Management-System/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/Vehicle-Rental-Management-System.git
+git clone https://github.com/isairey/SistemaGestionRentaCarros.git
 ```
 
 ---
